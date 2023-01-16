@@ -1,8 +1,8 @@
 <h1 align="center">Olá, me chamo João Pedro</h1>
 
 
-<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpc963&count_private=true&show_icons=true&theme=discord_old_blurple&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)</a>
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpc963&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpc963&count_private=true&show_icons=true&theme=discord_old_blurple&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpc963&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 
 <h3 align="center">Sou Analista de Dados com experiência em Python, Pandas, Power BI e SQL. Estou motivado por trabalhar em projetos desafiadores e contribuir para a tomada de decisões estratégicas baseadas em dados. Estou sempre buscando maneiras de me desenvolver e aprimorar minhas habilidades.</h3>
