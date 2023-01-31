@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo João Pedro</h1>
 <h3 align="center">Sou Analista de Dados com experiência em Python, Pandas, Power BI e SQL. Estou motivado por trabalhar em projetos desafiadores e contribuir para a tomada de decisões estratégicas baseadas em dados. Estou sempre buscando maneiras de me desenvolver e aprimorar minhas habilidades.</h3><br />
 
-- 🌱 Atualmente estudando **Automação em Python e Web-Scraping**
+- 🌱 Atualmente estudando **Automação em Python, Web-Scraping e Django**
 <br />
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
