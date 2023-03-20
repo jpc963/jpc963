@@ -3,9 +3,11 @@
 
 <p>- 🤔 Atualmente estou criando um site para que os jogadores de 'Mir4' possam rastrear o progresso de seu personagem de forma eficaz.</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/36015340/226484508-27a370dd-1caf-4051-96e6-acbb587a834d.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/36015340/226486350-8adabedb-dc8d-4983-aa24-641d2eedf44d.png"></p>
 
 <br />
+
+
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/"> <img src="https://icongr.am/devicon/django-original.svg?size=40&color=currentColor"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://www.w3schools.com/html/html_intro.asp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a> </p>
