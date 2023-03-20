@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo João Pedro</h1>
 <h3 align="center">Sou Desenvolvedor Full Stack com experiência em Python, Django, Pandas, Power BI e SQL.</h3><br />
 
-<p>- 🤔 Atualmente estou criando um site para que os jogadores de 'Mir4' possam rastrear o progresso de seu personagem de forma eficaz, verificar preços de mercado e diversas informações sobre os mapas.</p>
+<p align="center">- 🤔 Atualmente estou criando um site para que os jogadores de 'Mir4' possam rastrear o progresso de seu personagem de forma eficaz, verificar preços de mercado e diversas informações sobre os mapas.</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36015340/226486350-8adabedb-dc8d-4983-aa24-641d2eedf44d.png"></p>
 
