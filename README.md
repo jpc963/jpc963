@@ -1,22 +1,14 @@
-<h1 align="center">Olá, me chamo João Pedro</h1>
-<h3 align="center">Sou Desenvolvedor Full Stack com experiência em Python, Django, Pandas, Power BI e SQL.</h3><br />
+<h1 align="center">Olá 👋, me chamo João Pedro</h1>
+<h3 align="center">Sou Desenvolvedor Full Stack com experiência em Python, Django, ReactJS, Pandas, Power BI e SQL.</h3>
 
-<p align="center">- 🤔 Atualmente estou criando um site para que os jogadores de 'Mir4' possam rastrear o progresso de seu personagem de forma eficaz, verificar preços de mercado e diversas informações sobre os mapas.</p>
+<p align="center">🌱 Atualmente estou me aprimorando em **Django e React**</p><br/><br/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/36015340/226486350-8adabedb-dc8d-4983-aa24-641d2eedf44d.png"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpc963&show_icons=true&locale=en&layout=compact" alt="jpc963" /></p><br/><br/>
 
-<br />
+<h3 align="center">Linguagens e Frameworks:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><br/>
 
-
-
-<h3 align="center">Linguagens e Ferramentas:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/"> <img src="https://icongr.am/devicon/django-original.svg?size=40&color=currentColor"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://www.w3schools.com/html/html_intro.asp"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> </a> <a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a> </p>
-<br />
-
- <h3 align="center">Se conecte comigo :)</h3>
-
+<h3 align="center">Se conecte comigo:</h3>
 <p align="center">
-<a href = "mailto:oonoreti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jpc-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://linkedin.com/in/jpc-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpc-dev" height="30" width="40" /></a>
 </p>
-<br />
