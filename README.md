@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo João Pedro</h1>
 <h3 align="center">Sou Desenvolvedor Full Stack com experiência em Python, Django, ReactJS, Pandas e SQL.</h3> </br><br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpc963&show_icons=true&locale=pt-br&layout=compact" alt="jpc963" /></p><br/><br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpc963&show_icons=true&locale=pt-br&layout=compact&hide=jupyter%20notebook" alt="jpc963" /></p><br/><br/>
 
 <h3 align="center">Linguagens e Frameworks:</h3>
 <p align="center">
