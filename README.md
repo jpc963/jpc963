@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, me chamo João Pedro</h1>
-<h3 align="center">Sou Desenvolvedor Full Stack com experiência em Python, Django, React, JavaScript, React Native, Node.js, Pandas e SQL.</h3> </br><br/>
+<p align="center">Olá 👋, me chamo João Pedro</p>
+<p align="center">Sou Desenvolvedor Full Stack com experiência em Python, Django, React, JavaScript, React Native, Node.js, Pandas e SQL.</p> </br><br/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpc963&show_icons=true&locale=pt-br&layout=compact&hide=jupyter%20notebook" alt="jpc963" /></p><br/><br/>
 
-<h3 align="center">Linguagens e Frameworks:</h3>
+<p align="center">Linguagens e Frameworks:</p>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -31,7 +31,7 @@
   </a>
 </p><br/>
 
-<h3 align="center">Se conecte comigo:</h3>
+<p align="center">Se conecte comigo:</p>
 <p align="center">
 <a href="https://linkedin.com/in/jpc-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpc-dev" height="30" width="40" /></a>
 </p>
